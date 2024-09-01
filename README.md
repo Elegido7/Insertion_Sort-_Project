@@ -1,4 +1,5 @@
-What You're Aiming For
+The project is created to sort an array of numbers from the smallest to the largest.
+The code sorts one number at a time pushing the larger numbers to the right.
 
 Implementation of Insertion Sort using JavaScript:
 
